@@ -2,4 +2,4 @@
 #
 ##script for making new folder
 #
-zip -r test.zip /folder1
+echo "this is zip folder"
